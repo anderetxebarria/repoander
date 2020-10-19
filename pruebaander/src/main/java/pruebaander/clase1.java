@@ -5,5 +5,8 @@ public class clase1 {
 	{
 		return x + y;
 	}
-
+	public int resta (int x,int y)
+	{
+		return x-y;
+	}
 }
